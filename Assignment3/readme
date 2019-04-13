@@ -1,0 +1,5 @@
+17	Extend the client/server interaction to simulate a password dialogue. After receiving data from a client, the server returns access granted or access denied depending on whether the received data matches the password.
+18	 Write a program that compress your working directory and email to a specific address?
+19	Write a python script to check email message from your Google account with Internet Message Access Protocol (IMAP).
+20	Write a program to send an email to one or multiple users with an attachment via Gmail with Simple Mail Transfer Protocol (SMTP) server.
+21	Write a program that establish secure connection to email server as Google or Yahoo through SMTP client secured with Transport layer security (TLS).
