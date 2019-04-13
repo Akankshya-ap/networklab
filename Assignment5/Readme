@@ -1,0 +1,4 @@
+[27]	Write a program that establish a connection with a remote machine over SSH. Then display the remote machine’s CPU and Main memory information.
+[28]	Demonstrate the use of executing a MYSQL command on remote server (i.e. you may create MYSQL database for the student,s of BTech 8th semester).
+[29]	Write a multithreaded, multi call XML-RPC server, so that multiple function calls can return a single result?
+[30]	In corporate a suitable authentication scheme to the serve designed in question number 29.
