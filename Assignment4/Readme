@@ -1,0 +1,5 @@
+[22]	Write a program to demonstrate the loading of a local file to a remote FTP?
+[23]	Write a program that compress your current working directory   and then email as a message.  You can send the email message via an external Gmail SMTP host, or you can use a local email server to do this. 
+[24]	Write a program that connects to your Google email account and read the email message. Display one or multiple email message on user request.
+[25]	Write a program that finds detail of the mail server from an email address.
+[26]	Write a program that connects to Google mail server with POP3 to fetch an email message from an email account.
